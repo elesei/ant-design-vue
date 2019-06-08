@@ -5,5 +5,5 @@
 </p>
 
 <h1 align="center">
-  <a href="https://vue.ant.design/" target="_blank">Ant Design Vue</a>
+  Ant Design Vue
 </h1>
